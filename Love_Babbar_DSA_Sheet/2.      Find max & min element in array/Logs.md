@@ -15,3 +15,5 @@ All approaches are perfectly documentated here. Kindly refer this  https://www.g
 ### My Final Approach:
 
 Make 2 variables min & max. Initialize from location 0 & 1. Run the for loop from 3 to n. Compare current element with min & max, and save the minimum & maximum number.
+
+
