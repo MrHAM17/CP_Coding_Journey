@@ -16,4 +16,4 @@ class Solution
 
 // *** L.B. DSA Sheet ***  Q.1/450
 
-// TC = O(N),   SC = O(1)                  --> 2nd Optimized Approach
+// TC = O(N),   SC = O(N)                  --> 2nd Optimized Approach
