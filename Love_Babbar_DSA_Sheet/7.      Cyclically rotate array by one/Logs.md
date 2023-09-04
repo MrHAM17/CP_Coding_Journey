@@ -1,5 +1,5 @@
 ### Problem: 
-Write a program to cyclically rotate an array by one.
+Write a program to cyclically rotate an array by one.  
 https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1
 
 ### Approach:
