@@ -5,7 +5,7 @@ GFG @ Count Inversions
 https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
 ### Approach:
 
-All approaches are perfectly documentated here in editorial section.
+All [2] approaches are perfectly documentated here in editorial section.
 
 Kindly refer this https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1
 
