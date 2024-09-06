@@ -1,3 +1,5 @@
+// This solution (by GPT) might not provide exact results and differs from the solutions in the editorial.
+
 #include <vector>
 #include <unordered_set>
 using namespace std;
